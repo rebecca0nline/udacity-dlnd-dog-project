@@ -1,0 +1,9 @@
+##Dogs are great
+#abby is the best
+
+def dog(name, breed):
+  print(name, 'is a', breed)
+
+
+#Running function
+dog("abby", "good dog")
